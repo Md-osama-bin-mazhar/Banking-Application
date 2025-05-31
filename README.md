@@ -67,7 +67,8 @@ A registration link is available for new users.
 
 Styled with a gold-black theme for a premium look and feel.
 
-![Screenshot (996)](https://github.com/user-attachments/assets/42da7163-2095-438a-a736-ef29a35615c5)
+![WhatsApp Image 2025-05-31 at 10 12 02 PM](https://github.com/user-attachments/assets/455380f5-a53e-48b1-9ec5-9743bc203f99)
+
 
 Dashboard Page
 
@@ -95,7 +96,9 @@ Transaction History
 
 Logout
 
-![Screenshot (995)](https://github.com/user-attachments/assets/9403d362-855c-4fa2-9d5e-577e5b611090)
+![WhatsApp Image 2025-05-31 at 10 12 02 PM (1)](https://github.com/user-attachments/assets/0c3c2338-b939-419d-9ad0-be6f0ed4bf9f)
+
+
 
 
 
